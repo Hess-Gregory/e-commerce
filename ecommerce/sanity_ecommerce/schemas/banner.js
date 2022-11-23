@@ -18,7 +18,7 @@ export default {
         },
         {
             name: 'product',
-            title: 'Produit',
+            title: 'Slug du produit',
             type: 'string',
         },
         {
@@ -28,34 +28,33 @@ export default {
         },
         {
             name: 'smallText',
-            title: 'Petit texte',
+            title: 'SmallText',
             type: 'string',
         },
         {
             name: 'midText',
-            title: 'Texte médium',
+            title: 'MidText',
             type: 'string',
         },
         {
             name: 'largeText1',
-            title: 'Large Texte 1',
+            title: 'LargeText1',
             type: 'string',
         },
         {
             name: 'largeText2',
-            title: 'Large Texte 2',
+            title: 'LargeText2',
             type: 'string',
         },
         {
             name: 'discount',
-            title: 'Remise',
+            title: 'Réduction',
             type: 'string',
         },
         {
             name: 'saleTime',
-            title: 'Heure de la vente',
+            title: 'Date de la promo',
             type: 'string',
         },
     ],
-  };
-  
+};
